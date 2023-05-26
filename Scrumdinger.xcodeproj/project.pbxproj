@@ -16,6 +16,7 @@
 		B693EF152A1FA2BC00A3C74C /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B693EF142A1FA2BC00A3C74C /* CardView.swift */; };
 		B693EF172A1FA51200A3C74C /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B693EF162A1FA51200A3C74C /* TrailingIconLabelStyle.swift */; };
 		B693EF192A1FA74D00A3C74C /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B693EF182A1FA74D00A3C74C /* ScrumsView.swift */; };
+		B693EF1B2A1FAF2700A3C74C /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B693EF1A2A1FAF2600A3C74C /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		B693EF142A1FA2BC00A3C74C /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		B693EF162A1FA51200A3C74C /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		B693EF182A1FA74D00A3C74C /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		B693EF1A2A1FAF2600A3C74C /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				B64D05A22A1F908300D1F97E /* ScrumdingerApp.swift */,
 				B64D05A42A1F908300D1F97E /* MeetingView.swift */,
 				B693EF182A1FA74D00A3C74C /* ScrumsView.swift */,
+				B693EF1A2A1FAF2600A3C74C /* DetailView.swift */,
 				B693EF142A1FA2BC00A3C74C /* CardView.swift */,
 				B693EF162A1FA51200A3C74C /* TrailingIconLabelStyle.swift */,
 				B693EF0F2A1F9B1700A3C74C /* Models */,
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B693EF132A1FA0B500A3C74C /* DailyScrum.swift in Sources */,
+				B693EF1B2A1FAF2700A3C74C /* DetailView.swift in Sources */,
 				B693EF172A1FA51200A3C74C /* TrailingIconLabelStyle.swift in Sources */,
 				B693EF112A1F9F1600A3C74C /* Theme.swift in Sources */,
 				B693EF192A1FA74D00A3C74C /* ScrumsView.swift in Sources */,
